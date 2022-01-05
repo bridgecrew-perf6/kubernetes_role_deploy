@@ -1,0 +1,6 @@
+- name: deploy wordpress using a role
+  hosts: all
+  become: true
+  roles:
+    - install_docker
+    - wordpress_role
