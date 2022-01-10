@@ -2,5 +2,5 @@
   hosts: localhost
   become: true
   roles:
-    - docker_role
+    - install_docker
     - wordpress_role
