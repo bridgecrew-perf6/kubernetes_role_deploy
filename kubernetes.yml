@@ -1,0 +1,5 @@
+- name: deploy kubernetes using a role
+  hosts: localhost
+  become: true
+  roles:
+    - kubernetes_role

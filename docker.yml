@@ -1,5 +1,0 @@
-- name: deploy docker using a role
-  hosts: localhost
-  become: true
-  roles:
-    - docker_role
