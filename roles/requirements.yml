@@ -1,4 +1,1 @@
-- src: https://github.com/Renaud82/wordpress_role.git
-- src: https://github.com/Renaud82/docker_role.git
-- src: renaud82.install_docker
-- src: renaud82.wordpress_role
+- src: https://github.com/projetajc-group3/docker_role.git
